@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    max-width: 400rem;
+    content: width=device-width;
+}
+body{
+    background: rgb(212, 209, 209);
+}
+li{
+    display: inline;
+    float: left;
+}
+a{
+    display: block;
+    font-size: 12px;
+    padding: 3px;
+    background-color: #a53a3a;
+    color: #dddddd;
+    text-decoration: none;
+
+}
+
+button{
+    height: 1.5rem;
+    width: 3rem;
+    margin-left: 3px;
+}
+ul{
+    background-color: #333;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.content{
+    padding: 12px;
+    color: #333;
+    background: #a09f9f;
+    width: 95%;
+}
+li a{
+    display: block;
+    color: #dddddd;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border: none;
+}
+li a:hover{
+    background-color: #111;
+}
+.search{
+    width: 15rem;
+    height: 2rem;
+    margin-left: 0.3rem;
+    margin-top: 4px;
+    margin-bottom: 6px;
+    border-radius: 0.2rem;
+    background: rgb(26, 25, 25);
+    border: none;
+}
+#search-input{
+    color: #dddddd;
+    width: 40%;
+    border: none ;
+}
+.box{
+    background: #a09f9f;
+}
+h3{
+    font-family: sans-serif;
+    margin-left: 0.5rem;
+    text-decoration: underline;
+
+}
+.h-contact{
+    margin-left: 7rem;
+    font-weight: bold;
+    color: #dbd7d7;
+}
+.buy-contact{
+    width: 100%;
+    height: 3rem;
+    background: #333;
+    margin-top: 2rem;
+    color: white;
+    margin-left: 0rem;
+
+}
+.img-box{
+    background: #333;
+    width: 8rem;
+    margin-top: 2rem;
+    height: 14rem;
+    column-gap: 3px;
+    margin-left: 1rem;
+}
+
+
+img{
+    width: 6rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    border-radius: 1rem;
+}
+H6{
+    color: #dddddd;
+    margin-left: 7px;
+    font-size: 9px;
+    margin-top: 2px;
+}
+.buy{
+    width: 6rem;
+    margin-top: rem;
+    margin-left: 13px;
+    height: 1.5rem;
+}
+.rule{
+    width: 30%;
+    margin-left: -0.05rem;
+}
+.q{
+    color: #dddddd;
+    text-decoration: none;
+}
+.lol{
+    margin-left: 0.1rem;
+    margin-top: -12rem;
+    height: 9rem;
+    width: 8rem;
+}
+.lol6{
+    margin-left: 0.1rem;
+    margin-top: -12rem;
+    height: 7rem;
+    width: 7rem;
+}
+.price-sec{
+    background-color: #302e2e;
+    padding: 12px;
+}
+.price-h{
+    margin-left: 1rem;
+    font-size: 16px;
+    color: #dbd7d7;
+}
+.pain{
+    margin-left: 9rem;
+}
+.buy:hover{
+    scale: 1.1rem;
+    color: black;
+}
+.contain{
+    background: #333;
+    padding: 2px;
+    margin: 0;
+}
+span{
+    color: #a09f9f;
+    margin-left: 7px;
+    margin-top: 2px;
+    font-size: 10px;
+}
+.con{
+    margin-top: 2px;
+    background-color: #111;
+}
+.span2{
+    color: #e9dada;
+    margin-left: 7px;
+    margin-top: 2px;
+    font-size: 23px;
+    margin-top: 2rem;
+    column-gap: 3rem;
+}
+p{
+    font-size: 13px;
+    color: #302e2e;
+    margin-left: 17rem;
+    text-align: left;
+    margin-top: 1rem;
+}
+.lol-box{
+    background-color: #333;
+    width: 100%;
+}
+
+.buy2{
+    width: 20%;
+}
+.lol-box2{
+    background-color: #302e2e;
+    height: 4rem;
+}
+.lol2{
+    margin-left: 0.5rem;
+    padding: 2px;
+    color: #dbd7d7;
+    margin-bottom: -2rem;
+    text-decoration: none;
+    font-size: 20px;
+}
+.video-box{
+    background-color: black;
+
+}
+h4{
+    margin-left: 9rem;
+}
+.i{
+    margin-left: 1rem;
+    width: 6rem;
+
+}
+.img-box1{
+    margin-left: 11rem;
+    background: #333;
+    width: 8rem;
+    margin-top: -30rem;
+    height: 14rem;
+}
+.img-box2{
+    margin-left: 11rem;
+    background: #333;
+    width: 8rem;
+    margin-top: 2rem;
+    height: 14rem;
+}
+
+.more{
+    width: 100%;
+    background: #a09f9f;
+
+}
+.pai{
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
